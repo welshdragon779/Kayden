@@ -4,7 +4,7 @@ Kayden is a Linux CLI-based email client designed to send emails seamlessly thro
 
 - **Simple Interaction**: User-friendly prompts guide you through entering the necessary email details.
 - **Attachment Support**: Easily attach files to your emails by specifying the file path.
-- **Scheduling**: Schedule emails to be sent at a later time using various time formats.
+- **Scheduling**: Schedule emails to be sent at a later time using various time formats , you can also save mails as draft and send/schedule them later.
 - **CC and BCC**: Include CC and BCC recipients for your emails.
 - **Logging**: Keep track of sent emails with log files.
 
